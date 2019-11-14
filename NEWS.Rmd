@@ -1,0 +1,16 @@
+---
+title: "NEWS"
+output: html_document
+---
+
+## TODO
+
+* Logout button is not shown
+
+## v0.1
+
+* Stump for shiny projects
+
+
+
+
